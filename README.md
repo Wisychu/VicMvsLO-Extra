@@ -1,5 +1,7 @@
 <p align="center"><img src="Assets/Sprites/UI/Menu/vcmi banner wide.png" alt="vic's Custom Match-inator" width="850px"></p>
 
+For now, is mostly going to be used as a tutorial of me just trying to add characters and maps, if i ever get something done i will release it!!
+
 A **standalone mod** of the 2-10 player remake of the Mario vs. Luigi gamemode from New Super Mario Bros. DS.
 
 This mod introduces the concept of *"Match rules"*, a list of conditions that can trigger whatever the lobby's host desires! Win when dying? Get a mega mush when stomping on another player? Uh, sure, if you're into that sort of thing. Oh, it also has around *13 "Race maps"* where you can speedrun a classic NSMB level from start to finish!
